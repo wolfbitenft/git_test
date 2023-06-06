@@ -1,0 +1,3 @@
+Hello, World!
+Welcome to the wonderful world of learning to code with The Odin Project.
+Thank you for providing free curriculum and resources for me to learn.
